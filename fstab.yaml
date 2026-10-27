@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://guides.adobe.com/eds-workers/your-user-name/your-repo-name/main/docs
+    url: https://guides.adobe.com/eds-workers/ynakagawa/guides-eds/main/docs
     type: markup
 
